@@ -1,0 +1,12 @@
+:root { color-scheme: dark; }
+body { margin: 0; background: #000; color: #f2f2f2; font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; }
+main { max-width: 680px; margin: 0 auto; padding: 64px 24px 96px; }
+header { display: flex; align-items: center; gap: 16px; margin-bottom: 40px; }
+header img { width: 64px; height: 64px; border-radius: 15px; }
+.wordmark { font-family: Didot, "Bodoni 72", Georgia, serif; letter-spacing: 0.3em; font-size: 22px; }
+h1 { font-family: Didot, "Bodoni 72", Georgia, serif; font-weight: 400; font-size: 34px; margin: 0 0 8px; }
+h2 { font-size: 15px; letter-spacing: 0.12em; text-transform: uppercase; color: #9a9a9a; margin: 36px 0 8px; }
+a { color: #fff; }
+.muted { color: #8a8a8a; font-size: 14px; }
+nav { margin-top: 56px; border-top: 1px solid #222; padding-top: 20px; font-size: 14px; }
+nav a { margin-right: 20px; color: #bbb; }
